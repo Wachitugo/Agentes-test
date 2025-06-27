@@ -61,6 +61,6 @@ Agentes-test/
 docker build -t agentes-review .
 
 # Ejecutar contenedor
-docker run -it --rm -v "%CD%/data:/app/data" -e OPENAI_API_KEY=tu-api-key agentes-review
+docker run -it --rm -v "%CD%/data:" -e OPENAI_API_KEY=tu-api-key agentes-review
 ```
 
