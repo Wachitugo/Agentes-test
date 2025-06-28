@@ -1,3 +1,0 @@
-Problema a resolver:
-
-Crear un algoritmo en Python que permita ingresar 3 números y sumarlos. 
