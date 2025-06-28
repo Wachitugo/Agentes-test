@@ -48,7 +48,8 @@ Agentes-test/
 ├── app/
 │   ├── agents/          # Agentes de IA
 │   ├── pipeline/        # Pipeline de procesamiento
-│   └── utils/          # Utilidades
+│   └── utils/           # Utilidades
+├── data/                # Datos para evaluar
 ├── poetry.lock
 ├── pyproject.toml
 └── README.md
@@ -58,9 +59,6 @@ Agentes-test/
 
 ```bash
 # Construir imagen
-docker build -t agentes-review .
-
-# Ejecutar contenedor
-docker run -it --rm -v "%CD%/data:" -e OPENAI_API_KEY=tu-api-key agentes-review
+Todavia nada 😢😢
 ```
 
