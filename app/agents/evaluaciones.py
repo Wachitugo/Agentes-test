@@ -16,15 +16,14 @@ INSTRUCCIONES ESPECÍFICAS:
    - Puntuación asignada (1-7)
    - Justificación específica basada en evidencia del código
    - Porcentaje de logro para ese criterio
-3. Calcula la nota final ponderada según los pesos de la rúbrica
+3. Calcula la nota final ponderacion según los pesos de la rúbrica
 4. La nota final debe estar en escala de 1.0 a 7.0
 
 FORMATO DE RESPUESTA REQUERIDO:
-- Tabla con cada criterio, puntuación, peso y % de logro
+- Tabla con cada criterio, ponderacion y % de logro
 - Justificación detallada para cada puntuación
 - Cálculo de la nota final
 - Resumen del nivel de desempeño alcanzado
 
 Sé preciso, objetivo y fundamenta cada calificación con evidencia específica del código."""
 )
-
